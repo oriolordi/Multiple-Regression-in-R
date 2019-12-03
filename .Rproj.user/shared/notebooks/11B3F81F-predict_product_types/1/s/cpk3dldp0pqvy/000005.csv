@@ -1,0 +1,8 @@
+"0","# Predictions by product type ####"
+"0","# Laptop predictions"
+"0","NPA <- NPA[NPA$ProductTypeLaptop == 1 | NPA$ProductTypePC == 1 |NPA$ProductTypeNetbook == 1 | NPA$ProductTypeSmartphone == 1,]"
+"0","NPA_undummy$Volume <- predictionsnew"
+"0","NPA_undummy <- NPA_undummy[NPA_undummy$ProductType == 'PC' | NPA_undummy$ProductType == 'Laptop' |NPA_undummy$ProductType == 'Netbook' | NPA_undummy$ProductType == 'Smartphone',]"
+"0",""
+"0","ggplot(NPA_undummy, aes(x = ProductType,y = Volume, fill = ProductType)) +"
+"0","  geom_col()"

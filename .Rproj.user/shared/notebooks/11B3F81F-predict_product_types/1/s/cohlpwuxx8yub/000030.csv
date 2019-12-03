@@ -1,0 +1,6 @@
+"0","sum(duplicated(NPA[-which(names(NPA) == 'ProductNum')]))"
+"1","[1]"
+"1"," 0"
+"1","
+"
+"0","NPA[!duplicated(NPA[-which(names(NPA) == 'ProductNum')]),]"

@@ -1,0 +1,4 @@
+"0","# Check the variables ####"
+"0","ggplot(EPA, aes(x=x1StarReviews, y = Volume)) +"
+"0","  geom_point() +"
+"0","  geom_smooth()"

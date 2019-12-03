@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575380647755.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "153C22D2",
+    "lastKnownWriteTime" : 1575380777,
+    "last_content_update" : 1575380777234,
+    "path" : "C:/Users/Usuario/Desktop/Data/Projects/2. Data Analytics II/3. Multiple Regression in R/script/predict_product_types.R",
+    "project_path" : "script/predict_product_types.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

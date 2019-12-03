@@ -1,0 +1,6 @@
+"0",""
+"0","# Removing the observations that the graphs before showed were distrustful ####"
+"0","EPA <- EPA[-which(EPA$ProductNum == 118),]"
+"0","EPA <- EPA[-which(EPA$ProductNum == 123),]"
+"0","EPA <- EPA[-which(EPA$ProductNum == 134),]"
+"0","EPA <- EPA[-which(EPA$ProductNum == 135),]"

@@ -1,0 +1,8 @@
+"0","# Plot the volume of sales by product, colored by product type ####"
+"0","ggplot(EPA, aes(x=reorder(ProductNum, -Volume), y = Volume, fill = ProductType)) + "
+"0","  geom_col(position = 'dodge') +"
+"0","  theme(axis.text.x = element_text(angle = 90)) +"
+"0","  xlab('Product Number') +"
+"0","  ylab('Volume') +"
+"0","  ggtitle('Volume of sales by product') +"
+"0","  labs(fill = 'Product Type')"
